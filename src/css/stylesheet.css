@@ -1,0 +1,17 @@
+
+.map-layers-container {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.map-layers-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.map-layers-description {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
